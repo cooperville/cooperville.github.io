@@ -14,6 +14,10 @@ h1, p {
     color: gold;
 }
 
+h2 {
+	color: white;
+}
+
 h1 {
 	font-size: 60pt;
 	font-weight: lighter;
@@ -21,5 +25,5 @@ h1 {
 }
 
 p {
-	font-family: italic;
+	font-style: italic;
 }
