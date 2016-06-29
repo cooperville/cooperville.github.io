@@ -1,6 +1,9 @@
 body {
+    background-image: url(/unit_3/images/Mom_Valentino.jpg);
+    background-size: cover;
+    font-family: "Courier New"
     background-color: rgb(105,67,0);
-    text-align: center;
+    text-align: left;
 }
 
 #slogan {
