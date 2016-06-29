@@ -8,7 +8,8 @@ body {
 
 #slogan {
 	font-style: italic;
-	font-size: 18pt;
+	font-size: 10pt;
+	font-color: medium gray;
 }
 
 h1, p {
@@ -25,6 +26,6 @@ h1 {
 }
 
 p {
-	font-size: 24pt;
+	font-size: 14pt;
 	font-style: italic;
 }
