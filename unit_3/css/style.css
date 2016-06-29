@@ -20,10 +20,10 @@ h2 {
 
 h1 {
 	font-size: 60pt;
-	font-weight: lighter;
 	font-family: Arial, sans-serif;
 }
 
 p {
+	font-size: 14pt;
 	font-style: italic;
 }
