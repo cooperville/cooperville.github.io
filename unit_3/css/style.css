@@ -11,8 +11,15 @@ body {
 }
 
 header {
-	background-color: #69BAFF;
+	background-color: #22;
 	padding: 20px;
+}
+
+#big_title {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	color: medium gray;
+    text-align: left;
 }
 
 #slogan {
@@ -24,7 +31,7 @@ header {
 }
 
 img {
-	height: 200px;
+	height: 100px;
 }
 
 h1, p {
