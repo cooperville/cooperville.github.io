@@ -23,6 +23,10 @@ header {
     text-align: left;
 }
 
+img {
+	width: 100%;
+}
+
 h1, p {
     color: gold;
 }
