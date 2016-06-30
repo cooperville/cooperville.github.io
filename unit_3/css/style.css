@@ -29,19 +29,18 @@ img {
 }
 
 h1 {
-    color: gold;
+	font-size: 48px;
+	font-family: Arial, sans-serif;
+	color: gold;
 }
 
-h2, p {
+h2 {
+	font-size: 24px;
 	color: gray;
 }
 
-h1 {
-	font-size: 48px;
-	font-family: Arial, sans-serif;
-}
-
 p {
-	font-size: 10pt;
-	font-style: italic;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: gray;
 }
