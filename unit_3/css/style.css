@@ -18,7 +18,7 @@ header {
 #slogan {
 	font-family: Helvetica, Arial, sans-serif;
 	font-style: italic;
-	font-size: 14px;
+	font-size: 24px;
 	color: medium gray;
     text-align: left;
 }
@@ -36,7 +36,7 @@ h2 {
 }
 
 h1 {
-	font-size: 60px;
+	font-size: 48px;
 	font-family: Arial, sans-serif;
 }
 
