@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Pragati+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
 
 * {
 	padding: 0;
@@ -31,7 +31,7 @@ img {
 }
 
 h1 {
-	font-family: "Pragati+Narrow;"
+	font-family: 'Sacramento', cursive;
 	font-size: 48px;
 	font-family: Arial, sans-serif;
 	color: gold;
