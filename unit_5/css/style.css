@@ -15,16 +15,28 @@ body {
 }
 
 header {
-	padding: 20px;
+	margin-top: 48px;
+	margin-bottom: 2em;
+	margin-left: 48px;
+	margin-right: 0; 
 }
 
 #slogan {
 	font-size: 20px;
+	color: white;
+	margin-top: 0;
+	margin-bottom: 20px;
+	margin-left: 0;
+	margin-right: 0; 
 }
 
 #caption {
 	font-family: sans-serif;
 	font-style: italic;
+	margin-top: 0.5em;
+	margin-bottom: 4em;
+	margin-left: 48px;
+	margin-right: 0; 
 }
 
 img {
@@ -34,15 +46,24 @@ img {
 h1 {
 	font-family: "Oswald", sans-serif;
 	font-size: 48px;
-	color: gold;
-	padding: 40px;
+	color: #FFFD5F;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0; 
 }
 
 h2 {
 	font-size: 24px;
-	padding: 40px;
+	margin-top: 1.5;
+	margin-bottom: .5em;
+	margin-left: 48px;
+	margin-right: 0; 
 }
 
 p {
-	padding: 40px;
+	margin-top: 0;
+	margin-bottom: 2em;
+	margin-left: 48px;
+	margin-right: 18em; 
 }
