@@ -3,7 +3,7 @@
 * {
 	padding: 0;
 	margin: 0;
-	box-sizing:border-box;
+	box-sizing: border-box;
 }
 
 body {
@@ -19,8 +19,12 @@ header {
 }
 
 #slogan {
-	font-style: <!--This would typically have the word italic or similar; otherwise this line doesn't need to be-->;
-	font-size: 24px;
+	font-size: 20px;
+}
+
+#caption {
+	font-family: sans-serif;
+	font-style: italic;
 }
 
 img {
@@ -31,11 +35,14 @@ h1 {
 	font-family: "Oswald", sans-serif;
 	font-size: 48px;
 	color: gold;
+	padding: 40px;
 }
 
 h2 {
 	font-size: 24px;
+	padding: 40px;
 }
 
 p {
+	padding: 40px;
 }
