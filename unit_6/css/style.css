@@ -10,7 +10,7 @@ body {
     background-color: black;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
-    color: #bdbdbd;
+    color: #bdbdbd; /*gray*/
     text-align: left;
 }
 
@@ -19,6 +19,36 @@ header {
 	margin-bottom: 2em;
 	margin-left: 48px;
 	margin-right: 0; 
+}
+
+#two_column {
+	background-color: #b0ff0d; /*bright lime*/
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #ff660E; /*orange*/
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #ff660E; /*orange*/
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
 
 #slogan {
