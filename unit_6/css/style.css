@@ -41,6 +41,7 @@ header {
 	padding: 20px;
 	float: right;
 	width: 62%;
+}
 
 .clearfix:after {
 	visibility: hidden;
